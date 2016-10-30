@@ -1,0 +1,5 @@
+1) I have to use different files for different class files as per PSR standards
+2)Autoloading the classes.
+3) Follow Liskov Substitution principle we cant derive square from rectangle because
+4) Exception Handling
+5) Validating the Object
